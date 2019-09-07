@@ -1,0 +1,7 @@
+'use strict';
+
+var Subscription = require('../js_modules/redux/Subscription.js');
+
+
+
+exports.default = Subscription.__moduleExports;
