@@ -8,7 +8,7 @@ module.exports = {
     format: 'cjs',
   },
   preserveModules: true,
-  preserveSymlinks: true,
+  // preserveSymlinks: true,
   plugins: [
     commonjs({
       include: /_modules/,
